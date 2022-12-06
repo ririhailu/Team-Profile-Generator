@@ -12,3 +12,9 @@ test('gets office number', () => {
 
     expect(manager.getOfficeNumber()).toBe('6');
 });
+
+test('getRole() returns Manager', () => {
+    const manager = new Manager('Manager');
+
+    expect(manager.getRole()).toBe('Manager');
+});
