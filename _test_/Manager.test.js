@@ -6,3 +6,9 @@ test('creates a manager object', () => {
 
     expect(typeof(manager)).toBe('object');
 });
+
+test('gets office number', () => {
+    const manager = new Manager('Manager', '1', 'noemiegrau@outlook.fr', '6');
+
+    expect(manager.getOfficeNumber()).toBe('6');
+});
