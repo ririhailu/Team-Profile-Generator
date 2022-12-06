@@ -6,3 +6,9 @@ test('creates an Employee object', () => {
 
     expect(typeof(employee)).toBe("object");
 });
+
+test("gets employee's name", () => {
+    const employee = new Employee('Employee1');
+
+    expect(employee.getName()).toBe('Employee1');
+});
