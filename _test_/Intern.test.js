@@ -13,3 +13,9 @@ test("gets Intern's school", () => {
 
     expect(intern.school).toBe('school1');
 });
+
+test('getRole() returns Intern', () => {
+    const intern = new Intern('Intern');
+
+    expect(intern.getRole()).toBe('Intern');;
+});
