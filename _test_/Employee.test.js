@@ -12,3 +12,9 @@ test("gets employee's name", () => {
 
     expect(employee.getName()).toBe('Employee1');
 });
+
+test("gets employee's id", () => {
+    const employee = new Employee('Employee1', '1');
+
+    expect(employee.getId()).toBe('1');
+});
