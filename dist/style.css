@@ -4,3 +4,16 @@ header {
     text-align: center;
     padding: 30px;
 }
+
+header h1 {
+    font-size: 18px;
+}
+
+.identity {
+    background-color: rgb(56, 125, 253);
+    color: white;
+}
+
+.col {
+    margin: 15px;
+}
