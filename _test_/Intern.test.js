@@ -7,3 +7,9 @@ test('creates an Intern object', () => {
 
     expect(typeof(intern)).toBe('object');
 });
+
+test("gets Intern's school", () => {
+    const intern = new Intern('Intern1', '2', 'email', 'school1');
+
+    expect(intern.school).toBe('school1');
+});
