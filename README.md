@@ -9,6 +9,8 @@ The below link is a video walkthrough for this application.
 
 Video link:  https://drive.google.com/file/d/1LWmGaKnf7jgU9DE81F9StQks0dOTzstv/view
 
+# HTML
+My HTML is in the dist file.
 
 
 
