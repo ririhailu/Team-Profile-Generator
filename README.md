@@ -1,18 +1,20 @@
 # Team-Profile-Generator
 
-![screenshot](./assets/)
+![screenshot](./assets/Screenshot2.png)
+
 
 
 # Link to video
-This below link is a video walkthrough for this project. 
+The below link is a video walkthrough for this application. 
 
 Video link:  https://drive.google.com/file/d/1LWmGaKnf7jgU9DE81F9StQks0dOTzstv/view
 
 
 
+
 ## Description
 
-The purpose of this assignment is to create a team generator including manager, engineer, and intern. For each position, the name, id, and email were included. The application will ask the user about the employee and team member information. Once all the input has been placed and the team is formed, the application will create an HTML file to display team members and their information.
+The purpose of this assignment is to create a team generator application including manager, engineer, and intern. For each position, the name, id, and email were included. The application will ask the user about the employee and team member information. Once all the input has been placed and the team is formed, the application will create an HTML file to display team members and their information.
 
 ## Installation
 
@@ -20,12 +22,13 @@ The Team-Profile-Generator was first created in repository in GitHub. The reposi
 
 ## Credits
 
-I would like to thank Mike G. assisting me with this project. 
+I would like to thank Mike G. and Zia G. assisting me with this project. 
 
 https://www.youtube.com/watch?v=K0vzRHZEsxc
 
 https://www.youtube.com/watch?v=bJY3KfM77pc
 
+https://jsonformatter.org/ 
 
 ## License
 
